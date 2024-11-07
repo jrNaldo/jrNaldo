@@ -1,6 +1,6 @@
 - 👋 Olá, Meu nome é Naldo
 - 👀 Estou interessado em aprender Front-end
-- 🌱 Eu estou estudando HTML e CSS
+- 🌱 Eu estou estudando HTML, CSS e JavaScript
 
 <!---
 jrNaldo/jrNaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
